@@ -11,9 +11,13 @@ Step 4. Change path (Optional)
 cd <path_to_a_directory_where_you_want_to_download_the_repository>
 
 Step 5. Download the repository
-git clone [https://github.com/udacity/AIPND.git](https://github.com/Sw-github01/Project-1.git)
+git clone https://github.com/Sw-github01/Project-1.git
 
 #Project Motivation
+The project is to excercise Stack Overflow Data - 2017 Survey and draw insights of questions as:
+What are the factor contribute to the Career satisfaction, and how accurate we could predicate Career satisfaction basedo n the features selected?
+What are the factor contribute to the Stack Overflow satisfaction, and how accurate we could predicate Career satisfaction basedo n the features selected?
+What's the relationshipe between Formal education and Career satisfaction, are they postive correlated?
 
 #File Descriptions
 
