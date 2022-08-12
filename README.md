@@ -3,6 +3,9 @@ A collection of iPython Notebooks on GitHub because in order to do a decent revi
 
 #Installation Pre-requisite Mini Conda Installation with python 3
 Details of installation can be found https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html 
+This code runs with Python version 3 and requires some libraries, to install these libraties your will need to execute:
+Pip install -r requirements.txt
+
 #Install Git (Optional)
 Step 1. Download and install the Git for your OS
 Step 2. Open terminal (macOS/Linux) or Git Bash (Windows).
