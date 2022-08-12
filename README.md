@@ -33,3 +33,7 @@ Analysis of Formal Education and Career Satisfaction
 Feel free to Leave a coment or raise a bug notice
 
 #Acknowledgements to Udacity online learning
+
+
+#Resoluation:
+Provide a brief description of the conslusion and also mention the link to the blog post
