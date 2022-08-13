@@ -22,6 +22,8 @@ git add .
 git status ( check with files are ready to be committed)
 git commit -m "your message"
 Step 8. Push the local changes to remote
+git remote -v
+git push
 Step 9. Download the repository to local
 git clone https://github.com/Sw-github01/Project-1.git
 
