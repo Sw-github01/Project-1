@@ -12,8 +12,17 @@ Step 2. Open terminal (macOS/Linux) or Git Bash (Windows).
 Step 3. Run the following commands:
 Step 4. Change path (Optional)
 cd <path_to_a_directory_where_you_want_to_download_the_repository>
-
-Step 5. Download the repository
+Step 5. Initialize a git repository and make a commit:
+git init
+Step 6. For the first time commit, you need to configure the git username and email:
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+Step 7. Add and commit changes from workspace
+git add .
+git status ( check with files are ready to be committed)
+git commit -m "your message"
+Step 8. Push the local changes to remote
+Step 9. Download the repository to local
 git clone https://github.com/Sw-github01/Project-1.git
 
 #Project Motivation
