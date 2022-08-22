@@ -1,12 +1,12 @@
 # Analysis of Stack Overflow Data - 2017 Survey
 A collection of iPython Notebooks on GitHub because in order to do a decent revision control on ipython notebooks you need to save them after clearing all data. Most of these are just scratch notebooks I've created to describe something to other people or to learn how something works.
 
-#Installation Pre-requisite Mini Conda Installation with python 3
+## Installation Pre-requisite Mini Conda Installation with python 3
 Details of installation can be found https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html 
 This code runs with Python version 3 and requires some libraries, to install these libraties your will need to execute:
 Pip install -r requirements.txt
 
-#Install Git (Optional)
+##Install Git (Optional)
 Step 1. Download and install the Git for your OS
 Step 2. Open terminal (macOS/Linux) or Git Bash (Windows).
 Step 3. Run the following commands:
@@ -25,13 +25,14 @@ Step 8. Push the local changes to remote
 git remote -v
 git push
 Step 9. Download the repository to local
-git clone https://github.com/Sw-github01/Project-1.git
+git clone https://github.com/Sw-github01/UdctyProject-1.git
 
 #Project Motivation
 The project is to excercise Stack Overflow Data - 2017 Survey and draw insights of questions as:
-What are the factor contribute to the Career satisfaction, and how accurate we could predicate Career satisfaction basedo n the features selected?
+What are the factor contribute to the Career satisfaction, and how accurate we could predicate Career satisfaction basedo on the features selected?
 What are the factor contribute to the Stack Overflow satisfaction, and how accurate we could predicate Career satisfaction basedo n the features selected?
 What's the relationshipe between Formal education and Career satisfaction, are they postive correlated?
+
 
 #File Descriptions
 
@@ -48,4 +49,4 @@ Open Source Acknowledgement. The Supported Packages are comprised of open source
 
 
 #Resoluation:
-Provide a brief description of the conslusion and also mention the link to the blog post
+To conclude we could draw a general conclusion that formal education lead to better career satisfaction,  as well as other factors contribute to career satisfactions. We could draw a general conclusion that users on Stack Overflow are statisfied using the platform. Details of the analysis are posted on Medium https://medium.com/@Sw001/medium-post-532214f71adf
