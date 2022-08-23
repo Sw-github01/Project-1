@@ -29,9 +29,9 @@ git clone https://github.com/Sw-github01/UdctyProject-1.git
 
 #Project Motivation
 The project is to excercise Stack Overflow Data - 2017 Survey and draw insights of questions as:
-What are the factor contribute to the Career satisfaction, and how accurate we could predicate Career satisfaction basedo on the features selected?
-What are the factor contribute to the Stack Overflow satisfaction, and how accurate we could predicate Career satisfaction basedo n the features selected?
-What's the relationshipe between Formal education and Career satisfaction, are they postive correlated?
+What are the factors contribute to the Career satisfaction, and how accurate we could predicate Career satisfaction based on the features selected?
+What are the factors contribute to the Stack Overflow satisfaction, and how accurate we could predicate Career satisfaction based on the features selected?
+What's the relationship between Formal education and Career satisfaction, are they positive correlated??
 
 
 #File Descriptions
